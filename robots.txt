@@ -1,2 +1,2 @@
-User-agent: * 
-Crawl-Delay: 20
+User-Agent: *
+Host: www.bamuda.com.au
