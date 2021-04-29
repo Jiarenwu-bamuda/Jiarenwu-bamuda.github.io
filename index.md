@@ -42,14 +42,14 @@
 <div class="container-fluid">
 <div class="navbar-header"><!-- Logo -->
 <div class="navbar-header"><a class="navbar-brand" href="home.html">Bamuda Corporation</a></div>
-<button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse" type="button"></button><img alt="" src="../bamuda logo.png" /></div>
+<button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse" type="button"></button><img alt="" src="bamuda logo.png" /></div>
 
 <div class="collapse navbar-collapse" id="myNavbar">
 <ul class="nav navbar-nav">
-	<li class="active"><a href="../home.html">Home</a></li>
-	<li data-toggle="tooltip" title="About Bamuda"><a href="../about.html">About</a></li>
+	<li class="active"><a href="home.html">Home</a></li>
+	<li data-toggle="tooltip" title="About Bamuda"><a href="about.html">About</a></li>
 	<li><a href="keyPersonnel.html">Key Personnel</a></li>
-	<li><a href="../contact.html">Contact</a></li>
+	<li data-toggle="tooltip" title="Contact Bamuda"><a href="contact.html">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -58,11 +58,11 @@
 <div class="container-fluid text-center">
 <div class="row content">
 <div class="col-sm-2 sidenav">
-<p><a href="../mobileDev.html">Mobile Developer</a></p>
+<p><a href="mobileDev.html">Mobile Developer</a></p>
 
-<p><a href="../cloudComputing.html">Cloud Computing</a></p>
+<p><a href="#">Cloud Computing</a></p>
 
-<p><a href="../bigData.html">Big Data</a></p>
+<p><a href="bigData.html">Big Data</a></p>
 
 <p></p>
 
@@ -70,20 +70,26 @@
 
 <p></p>
 
-<p><a href="geniecharts.html">- Genie Charts</a></p>
+<p><a href="./products/geniecharts.html">- Genie Charts</a></p>
 </div>
 
-<div class="col-sm-10 text-left">&nbsp;
-<p>Genie Charts is an iOS charting app for technical traders.</p>
+<div class="col-sm-10 text-left">
+<h1>Welcome</h1>
 
-<p>The main advantage of using GenieCharts is that you will have the charts with you wherever you go no matter you are online or offline. Unlike many mobile charting apps, GenieCharts holds all the data locally and displays them from local data instead of from online queries. Hence you can do many advanced and highly customised technical analysis as you do in your desktop computer. Going through charts with finger gestures make it easier and intuitive than even desktop charting software. In summary, Genie Charts is a powerful desktop-like charting software made for iOS device.</p>
-&nbsp;
+<ul>
+	<li>IOS APP DEVELOPMENT</li>
+	<li>ANDROID APP DEVELOPMENT</li>
+	<li>SOFTWARE SOLUTIONS</li>
+</ul>
 
-<p>Below video would show how to use this app</p>
+<p>Our creative development studio is located in Sydney and Adelaide. We think ahead, innovate and develop cutting-edge apps for iOS and Android. Our specialist team of programmers is well-versed with the latest advancements in the Native platform. Performance and Scalability is at the heart of all our software development.</p>
 
-<video controls="" height="240" width="320"><source src="genieChartsTutorial.mp4" type="video/mp4" /> Your browser does not support the video tag.</video>
-<br />
-<a data-reactid="777" href="https://itunes.apple.com/gb/app/genie-charts/id852942251?mt=8" title="Available on the App Store"><img alt="" data-reactid="778" src="https://d1a3f4spazzrp4.cloudfront.net/uber-com/1.3.0/d1a3f4spazzrp4.cloudfront.net/images/global/app-store-8c177b28a0.svg" /></a></div>
+<p>We listen, research, and draw your idea into a technical scope, which includes tech feasibility and user flow. Our apps are designed to attract new customers, enhance brand value and increase downloads. We not only translate your imagination into real projects, but also research and follow the most cost effective approach to achieve the desired results.</p>
+
+<p>Mobile development must be user-friendly and optimised from the start. Starting with coding and markup and finishing with the content &amp; Structured data, and of course everything in between, we can take the confusion out of moving your company to an online business. We are proud of the teamwork between our entire experienced professional team here at Bamuda. Our goal is the same as yours; deliver the best experience to your customers while ranking your website high in all search engine platforms.</p>
+
+<p>We&rsquo;ll use analytics and tracking to provide feedback and continual improvement.</p>
+</div>
 </div>
 </div>
 
